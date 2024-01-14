@@ -2,6 +2,7 @@
 
 ![rust-logo-128x128-blk-v2](https://github.com/Perlverity/linter_Rust/assets/68835326/ec41e018-f2c5-476e-b1e3-92eb2e390b0a)
 
+https://prev.rust-lang.org/ja-JP/legal.html
 
 ## ScreenShot (Develop)
 ![image](https://github.com/Perlverity/linter_Rust/assets/68835326/465f5260-23f7-4856-bafd-cc69f7bf8659)
